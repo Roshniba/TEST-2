@@ -1,0 +1,518 @@
+\providecommand{\latin}[1]{#1}
+\makeatletter
+\providecommand{\doi}
+  {\begingroup\let\do\@makeother\dospecials
+  \catcode`\{=1 \catcode`\}=2 \doi@aux}
+\providecommand{\doi@aux}[1]{\endgroup\texttt{#1}}
+\makeatother
+\providecommand*\mcitethebibliography{\thebibliography}
+\csname @ifundefined\endcsname{endmcitethebibliography}
+  {\let\endmcitethebibliography\endthebibliography}{}
+\begin{mcitethebibliography}{59}
+\providecommand*\natexlab[1]{#1}
+\providecommand*\mciteSetBstSublistMode[1]{}
+\providecommand*\mciteSetBstMaxWidthForm[2]{}
+\providecommand*\mciteBstWouldAddEndPuncttrue
+  {\def\EndOfBibitem{\unskip.}}
+\providecommand*\mciteBstWouldAddEndPunctfalse
+  {\let\EndOfBibitem\relax}
+\providecommand*\mciteSetBstMidEndSepPunct[3]{}
+\providecommand*\mciteSetBstSublistLabelBeginEnd[3]{}
+\providecommand*\EndOfBibitem{}
+\mciteSetBstSublistMode{f}
+\mciteSetBstMaxWidthForm{subitem}{(\alph{mcitesubitemcount})}
+\mciteSetBstSublistLabelBeginEnd
+  {\mcitemaxwidthsubitemform\space}
+  {\relax}
+  {\relax}
+
+\bibitem[Duman(2001)]{Duman01}
+Duman,~J.~G. Antifreeze and Ice Nucleator Proteins in Terrestrial Arthropods.
+  \emph{Ann. Rev. Physiol.} \textbf{2001}, \emph{63}, 327--357\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Barrett(2001)]{Barrett01}
+Barrett,~J. Thermal Hysteresis Proteins. \emph{Int. J. Biochem. Cell Biol.}
+  \textbf{2001}, \emph{33}, 105--117\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Jia and Davies(2002)Jia, and Davies]{Davies02}
+Jia,~Z.; Davies,~P.~L. Antifreeze Proteins: An Unusual Receptor--Ligand
+  Interaction. \emph{Trends Biochem. Sci.} \textbf{2002}, \emph{27},
+  101--106\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Graether and Sykes(2004)Graether, and Sykes]{Graether04}
+Graether,~S.~P.; Sykes,~B.~D. Cold Survival in Freeze-Intolerant Insects: The
+  Structure and Function of $\beta$-Helical Antifreeze Proteins. \emph{Eur. J.
+  Biochem.} \textbf{2004}, \emph{271}, 3285--3296\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Griffith and Yaish(2004)Griffith, and Yaish]{Griffith04}
+Griffith,~M.; Yaish,~M.~W. Antifreeze Proteins in Overwintering Plants: A Tale
+  of Two Activities. \emph{Trends Plant Sci.} \textbf{2004}, \emph{9},
+  399--405\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Pertaya \latin{et~al.}(2007)Pertaya, Marshall, DiPrinzio, Wilen,
+  Thomson, Wettlaufer, Davies, and Braslavsky]{Braslavsky07}
+Pertaya,~N.; Marshall,~C.~B.; DiPrinzio,~C.~L.; Wilen,~L.; Thomson,~E.~S.;
+  Wettlaufer,~J.~S.; Davies,~P.~L.; Braslavsky,~I. Fluorescence Microscopy
+  Evidence for Quasi-Permanent Attachment of Antifreeze Proteins to Ice
+  Surfaces. \emph{Biophys. J.} \textbf{2007}, \emph{92}, 3663--3673\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Celik \latin{et~al.}(2013)Celik, Drori, Pertaya-Braun, Altan, Barton,
+  Bar-Dolev, Groisman, Davies, and Braslavsky]{Braslavsky13}
+Celik,~Y.; Drori,~R.; Pertaya-Braun,~N.; Altan,~A.; Barton,~T.; Bar-Dolev,~M.;
+  Groisman,~A.; Davies,~P.~L.; Braslavsky,~I. Microfluidic Experiments Reveal
+  That Antifreeze Proteins Bound to Ice Crystals Suffice to Prevent Their
+  Growth. \emph{Proc. Natl. Acad. Sci. U.S.A.} \textbf{2013}, \emph{110},
+  1309--1314\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Drori \latin{et~al.}(2014)Drori, Celik, Davies, and
+  Braslavsky]{Braslavsky14}
+Drori,~R.; Celik,~Y.; Davies,~P.~L.; Braslavsky,~I. Ice-Binding Proteins That
+  Accumulate on Different Ice Crystal Planes Produce Distinct Thermal
+  Hysteresis Dynamics. \emph{J. R. Soc. Interface} \textbf{2014}, \emph{11},
+  20140526\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Drori \latin{et~al.}(2015)Drori, Davies, and Braslavsky]{Braslavsky15}
+Drori,~R.; Davies,~P.~L.; Braslavsky,~I. When Are Antifreeze Proteins in
+  Solution Essential for Ice Growth Inhibition? \emph{Langmuir} \textbf{2015},
+  \emph{31}, 5805--5811\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Meister \latin{et~al.}(2018)Meister, DeVries, Bakker, and
+  Drori]{Meister18}
+Meister,~K.; DeVries,~A.~L.; Bakker,~H.~J.; Drori,~R. Antifreeze Glycoproteins
+  Bind Irreversibly to Ice. \emph{J. Am. Chem. Soc.} \textbf{2018}, \emph{140},
+  9365--9368\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Raymond and DeVries(1977)Raymond, and DeVries]{DeVries77}
+Raymond,~J.~A.; DeVries,~A.~L. Adsorption Inhibition as a Mechanism of Freezing
+  Resistance in Polar Fishes. \emph{Proc. Natl. Acad. Sci. U.S.A.}
+  \textbf{1977}, \emph{74}, 2589--2593\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Wilson(1993)]{Wilson93}
+Wilson,~P.~W. Explaining Thermal Hysteresis by the Kelvin Effect.
+  \emph{Cryo-Lett} \textbf{1993}, \emph{14}, 31--36\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Karim and Haymet(1988)Karim, and Haymet]{Haymet88}
+Karim,~O.~A.; Haymet,~A. D.~J. The Ice/Water Interface: A Molecular Dynamics
+  Simulation Study. \emph{J. Chem. Phys.} \textbf{1988}, \emph{89},
+  6889--6896\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Bongrand(1999)]{Bongrand99}
+Bongrand,~P. Ligand-Receptor Interactions. \emph{Rep. Prog. Phys.}
+  \textbf{1999}, \emph{62}, 921\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Liou \latin{et~al.}(2000)Liou, Tocilj, Davies, and Jia]{Jia00}
+Liou,~Y.-C.; Tocilj,~A.; Davies,~P.~L.; Jia,~Z. Mimicry of Ice Structure by
+  Surface Hydroxyls and Water of a $\beta$-Helix Antifreeze Protein.
+  \emph{Nature} \textbf{2000}, \emph{406}, 322--324\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Sicheri and Yang(1995)Sicheri, and Yang]{Sicheri95}
+Sicheri,~F.; Yang,~D. S.~C. Ice-Binding Structure and Mechanism of an
+  Antifreeze Protein from Winter Flounder. \emph{Nature} \textbf{1995},
+  \emph{375}, 427--431\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Antson \latin{et~al.}(2001)Antson, Smith, Roper, Lewis, Caves, Verma,
+  Buckley, Lillford, and Hubbard]{Antson01}
+Antson,~A.~A.; Smith,~D.~J.; Roper,~D.~I.; Lewis,~S.; Caves,~L. S.~D.;
+  Verma,~C.~S.; Buckley,~S.~L.; Lillford,~P.~J.; Hubbard,~R.~E. Understanding
+  the Mechanism of Ice Binding by Type III Antifreeze Proteins. \emph{J. Mol.
+  Biol.} \textbf{2001}, \emph{305}, 875--889\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Pentelute \latin{et~al.}(2008)Pentelute, Gates, Tereshko, Dashnau,
+  Vanderkooi, Kossiakoff, and Kent]{Pentelute08}
+Pentelute,~B.~L.; Gates,~Z.~P.; Tereshko,~V.; Dashnau,~J.~L.;
+  Vanderkooi,~J.~M.; Kossiakoff,~A.~A.; Kent,~S.~B. X-ray Structure of Snow
+  Flea Antifreeze Protein Determined by Racemic Crystallization of Synthetic
+  Protein Enantiomers. \emph{J. Am. Chem. Soc.} \textbf{2008}, \emph{130},
+  9695--9701\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Hakim \latin{et~al.}(2013)Hakim, Nguyen, Basu, Zhu, Thakral, Davies,
+  Isaacs, Modis, and Meng]{Meng13}
+Hakim,~A.; Nguyen,~J.~B.; Basu,~K.; Zhu,~D.~F.; Thakral,~D.; Davies,~P.~L.;
+  Isaacs,~F.~J.; Modis,~Y.; Meng,~W. Crystal Structure of an Insect Antifreeze
+  Protein and Its Implications for Ice Binding. \emph{J. Biol. Chem.}
+  \textbf{2013}, \emph{288}, 12295--12304\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Midya and Bandyopadhyay(2014)Midya, and Bandyopadhyay]{Uday_JPCB14}
+Midya,~U.~S.; Bandyopadhyay,~S. Hydration Behavior at the Ice-Binding Surface
+  of the {\em Tenebrio molitor} Antifreeze Protein. \emph{J. Phys. Chem. B}
+  \textbf{2014}, \emph{118}, 4743--4752\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Nutt and Smith(2008)Nutt, and Smith]{Smith08}
+Nutt,~D.~R.; Smith,~J.~C. Dual Function of the Hydration Layer around an
+  Antifreeze Protein Revealed by Atomistic Molecular Dynamics Simulations.
+  \emph{J. Am. Chem. Soc.} \textbf{2008}, \emph{130}, 13066--13073\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Smolin and Daggett(2008)Smolin, and Daggett]{Daggett08}
+Smolin,~N.; Daggett,~V. Formation of Ice-Like Water Structure on the Surface of
+  an Antifreeze Protein. \emph{J. Phys. Chem. B} \textbf{2008}, \emph{112},
+  6193--6202\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Midya and Bandyopadhyay(2018)Midya, and Bandyopadhyay]{Uday_JPCB18}
+Midya,~U.~S.; Bandyopadhyay,~S. Role of Polar and Nonpolar Groups in the
+  Activity of Antifreeze Proteins: A Molecular Dynamics Simulation Study.
+  \emph{J. Phys. Chem. B} \textbf{2018}, \emph{122}, 9389--9398\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Siemer and McDermott(2008)Siemer, and McDermott]{McDermott08}
+Siemer,~A.~B.; McDermott,~A.~E. Solid-State NMR on a Type III Antifreeze
+  Protein in the Presence of Ice. \emph{J. Am. Chem. Soc.} \textbf{2008},
+  \emph{130}, 17394--17399\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Siemer \latin{et~al.}(2010)Siemer, Huang, and McDermott]{McDermott10}
+Siemer,~A.~B.; Huang,~K.-Y.; McDermott,~A.~E. Protein--Ice Interaction of an
+  Antifreeze Protein Observed with Solid-State NMR. \emph{Proc. Natl Acad. Sci.
+  U.S.A.} \textbf{2010}, \emph{107}, 17580--17585\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Brooke-Taylor \latin{et~al.}(1996)Brooke-Taylor, Grant, Elcock, and
+  Richards]{Richards96}
+Brooke-Taylor,~C.~A.; Grant,~G.~H.; Elcock,~A.~H.; Richards,~W.~G. Mechanism of
+  Action of Antifreeze Polypeptide HPLC6 in Solution: Analysis of Solvent
+  Behaviour by Molecular Dynamics. \emph{Chem. Phys.} \textbf{1996},
+  \emph{204}, 251--261\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Cui \latin{et~al.}(2009)Cui, Battle, Wierzbicki, and Madura]{Madura08}
+Cui,~J.; Battle,~K.; Wierzbicki,~A.; Madura,~J.~D. Investigations of Structure
+  and Dynamics of Water Solvation of the Type I Antifreeze Protein. \emph{Int.
+  J. Quantum Chem.} \textbf{2009}, \emph{109}, 73--80\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[MacKerell \latin{et~al.}(1998)MacKerell, Bashford, Bellott, Dunbrack,
+  Evanseck, Field, Fischer, Gao, Guo, Ha, Joseph-McCarthy, Kuchnir, Kuczera,
+  Lau, Mattos, Michnick, Ngo, Nguyen, Prodhom, Reiher, Roux, Schlenkrich,
+  Smith, Stote, Straub, Watanabe, Wi{\'o}rkiewicz-Kuczera, Yin, and
+  Karplus]{MacKerell98}
+MacKerell,~A.~D.; Bashford,~D.; Bellott,~M.; Dunbrack,~R.; Evanseck,~J.;
+  Field,~M.~J.; Fischer,~S.; Gao,~J.; Guo,~H.; Ha,~S. \latin{et~al.}  All-Atom
+  Empirical Potential for Molecular Modeling and Dynamics Studies of Proteins.
+  \emph{J. Phys. Chem. B} \textbf{1998}, \emph{102}, 3586--3616\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[MacKerell~Jr \latin{et~al.}(2003)MacKerell~Jr, Feig, and
+  Brooks]{MacKerell04}
+MacKerell~Jr,~A.~D.; Feig,~M.; Brooks,~C.~L. Improved Treatment of the Protein
+  Backbone in Empirical Force Fields. \emph{J. Am. Chem. Soc.} \textbf{2003},
+  \emph{126}, 698--699\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Jorgensen \latin{et~al.}(1983)Jorgensen, Chandrasekhar, Madura, Impey,
+  and Klein]{Jorgensen83}
+Jorgensen,~W.~L.; Chandrasekhar,~J.; Madura,~J.~D.; Impey,~R.~W.; Klein,~M.~L.
+  Comparison of Simple Potential Functions for Simulating Liquid Water.
+  \emph{J. Chem. Phys.} \textbf{1983}, \emph{79}, 926--935\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Rocchi \latin{et~al.}(1998)Rocchi, Bizzarri, and
+  Cannistraro]{Cannistraro98}
+Rocchi,~C.; Bizzarri,~A.~R.; Cannistraro,~S. Water Dynamical Anomalies
+  Evidenced by Molecular-Dynamics Simulations at the Solvent-Protein Interface.
+  \emph{Phys. Rev. E} \textbf{1998}, \emph{57}, 3315\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Bizzarri and Cannistraro(2002)Bizzarri, and
+  Cannistraro]{Cannistraro02}
+Bizzarri,~A.~R.; Cannistraro,~S. Molecular Dynamics of Water at the
+  Protein--Solvent Interface. \emph{J. Phys. Chem. B} \textbf{2002},
+  \emph{106}, 6617--6633\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Marchi \latin{et~al.}(2002)Marchi, Sterpone, and Ceccarelli]{Marchi02}
+Marchi,~M.; Sterpone,~F.; Ceccarelli,~M. Water Rotational Relaxation and
+  Diffusion in Hydrated Lysozyme. \emph{J. Am. Chem. Soc.} \textbf{2002},
+  \emph{124}, 6787--6791\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Bandyopadhyay \latin{et~al.}(2004)Bandyopadhyay, Chakraborty,
+  Balasubramanian, Pal, and Bagchi]{Sudip_JPCB04}
+Bandyopadhyay,~S.; Chakraborty,~S.; Balasubramanian,~S.; Pal,~S.; Bagchi,~B.
+  Atomistic Simulation Study of the Coupled Motion of Amino Acid Residues and
+  Water Molecules around Protein HP-36: Fluctuations at and around the Active
+  Sites. \emph{J. Phys. Chem. B} \textbf{2004}, \emph{108}, 12608--12616\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Chakraborty and Bandyopadhyay(2008)Chakraborty, and
+  Bandyopadhyay]{Sudip_JPCB08}
+Chakraborty,~S.; Bandyopadhyay,~S. Dynamics of Water in the Hydration Layer of
+  a Partially Unfolded Structure of the Protein HP-36. \emph{J. Phys. Chem. B}
+  \textbf{2008}, \emph{112}, 6500--6507\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Sinha and Bandyopadhyay(2011)Sinha, and Bandyopadhyay]{Sudipta_JCP11}
+Sinha,~S.~K.; Bandyopadhyay,~S. Dynamic Properties of Water around a
+  Protein--DNA Complex from Molecular Dynamics Simulations. \emph{J. Chem.
+  Phys.} \textbf{2011}, \emph{135}, 10B602\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Sinha and Bandyopadhyay(2012)Sinha, and Bandyopadhyay]{Sudipta_PCCP12}
+Sinha,~S.~K.; Bandyopadhyay,~S. Local Heterogeneous Dynamics of Water around
+  Lysozyme: A Computer Simulation Study. \emph{Phys. Chem. Chem. Phys.}
+  \textbf{2012}, \emph{14}, 899--913\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Pal and Bandyopadhyay(2013)Pal, and Bandyopadhyay]{Somedatta_lang13}
+Pal,~S.; Bandyopadhyay,~S. Importance of Protein Conformational Motions and
+  Electrostatic Anchoring Sites on the Dynamics and Hydrogen Bond Properties of
+  Hydration Water. \emph{Langmuir} \textbf{2013}, \emph{29}, 1162--1173\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Allen and Tildesley(1987)Allen, and Tildesley]{allen}
+Allen,~M.~P.; Tildesley,~D.~J. \emph{Computer Simulation of Liquids}; Oxford
+  University Press, 1987\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Pizzitutti \latin{et~al.}(2007)Pizzitutti, Marchi, Sterpone, and
+  Rossky]{pizzitutti07}
+Pizzitutti,~F.; Marchi,~M.; Sterpone,~F.; Rossky,~P.~J. How Protein Surfaces
+  Induce Anomalous Dynamics of Hydration Water. \emph{J. Phys. Chem. B}
+  \textbf{2007}, \emph{111}, 7584--7590\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Sterpone \latin{et~al.}(2012)Sterpone, Stirnemann, and
+  Laage]{sterpone12}
+Sterpone,~F.; Stirnemann,~G.; Laage,~D. Magnitude and Molecular Origin of Water
+  Slowdown Next to a Protein. \emph{J. Am. Chem. Soc.} \textbf{2012},
+  \emph{134}, 4116--4119\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Tirado-Rives and Jorgensen(1990)Tirado-Rives, and
+  Jorgensen]{Jorgensen90}
+Tirado-Rives,~J.; Jorgensen,~W.~L. Molecular Dynamics of Proteins with the OPLS
+  Potential Functions. Simulation of the Third Domain of Silver Pheasant
+  Ovomucoid in Water. \emph{J. Am. Chem. Soc.} \textbf{1990}, \emph{112},
+  2773--2781\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Chen and Teixeira(1986)Chen, and Teixeira]{Teixeira86}
+Chen,~S.~H.; Teixeira,~J. Structure and Dynamics of Low-Temperature Water as
+  Studied by Scattering Techniques. \emph{Adv. Chem. Phys} \textbf{1986},
+  \emph{64}, 1--45\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Walrafen(1990)]{Walrafen90}
+Walrafen,~G.~E. Raman Spectrum of Water: Transverse and Longitudinal Acoustic
+  Modes below $\approx300 cm^{-1}$ and Optic Modes above $\approx300 cm^{-1}$.
+  \emph{J. Phys. Chem.} \textbf{1990}, \emph{94}, 2237--2239\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Laenen \latin{et~al.}(1998)Laenen, Rauscher, and
+  Laubereau]{Laubereau98}
+Laenen,~R.; Rauscher,~C.; Laubereau,~A. Dynamics of Local Substructures in
+  Water Observed by Ultrafast Infrared Hole Burning. \emph{Phys. Rev. Lett.}
+  \textbf{1998}, \emph{80}, 2622\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Gale \latin{et~al.}(1999)Gale, Gallot, Hache, Lascoux, Bratos, and
+  Leicknam]{Leicknam99}
+Gale,~G.~M.; Gallot,~G.; Hache,~F.; Lascoux,~N.; Bratos,~S.; Leicknam,~J.-C.
+  Femtosecond Dynamics of Hydrogen Bonds in Liquid Water: A Real Time Study.
+  \emph{Phys. Rev. Lett.} \textbf{1999}, \emph{82}, 1068\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Kropman and Bakker(2001)Kropman, and Bakker]{Bakker01}
+Kropman,~M.~F.; Bakker,~H.~J. Dynamics of Water Molecules in Aqueous Solvation
+  Shells. \emph{Science} \textbf{2001}, \emph{291}, 2118--2120\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Steinel \latin{et~al.}(2004)Steinel, Asbury, Zheng, and
+  Fayer]{Fayer04}
+Steinel,~T.; Asbury,~J.~B.; Zheng,~J.; Fayer,~M.~D. Watching Hydrogen Bonds
+  Break: A Transient Absorption Study of Water. \emph{J. Phys. Chem. A}
+  \textbf{2004}, \emph{108}, 10957--10964\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Stillinger(1980)]{Stillinger80}
+Stillinger,~F.~H. Water Revisited. \emph{Science} \textbf{1980}, \emph{209},
+  451--457\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Luzar and Chandler(1996)Luzar, and Chandler]{Luzar96}
+Luzar,~A.; Chandler,~D. Hydrogen-Bond Kinetics in Liquid Water. \emph{Nature}
+  \textbf{1996}, \emph{379}, 55--57\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Luzar(2000)]{Luzar00}
+Luzar,~A. Resolving the Hydrogen Bond Dynamics Conundrum. \emph{J. Chem. Phys.}
+  \textbf{2000}, \emph{113}, 10663--10675\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Berendsen \latin{et~al.}(1986)Berendsen, Van~Gunsteren, Zwinderman,
+  and Geurtsen]{Berendsen86}
+Berendsen,~H. J.~C.; Van~Gunsteren,~W.~F.; Zwinderman,~H. R.~J.;
+  Geurtsen,~R.~G. Simulations of Proteins in Water. \emph{Ann. New York Acad.
+  Sci.} \textbf{1986}, \emph{482}, 269--286\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Reddy \latin{et~al.}(2001)Reddy, Das, and Jayaram]{Jayaram01}
+Reddy,~C.~K.; Das,~A.; Jayaram,~B. Do Water Molecules Mediate Protein--DNA
+  Recognition? \emph{J. Mol. Biol.} \textbf{2001}, \emph{314}, 619--632\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Stillinger and Rahman(1974)Stillinger, and Rahman]{Rahman74}
+Stillinger,~F.~H.; Rahman,~A. Improved Simulation of Liquid Water by Molecular
+  Dynamics. \emph{J. Chem. Phys.} \textbf{1974}, \emph{60}, 1545--1557\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Mezei and Beveridge(1981)Mezei, and Beveridge]{Mezei81}
+Mezei,~M.; Beveridge,~D.~L. Theoretical Studies of Hydrogen Bonding in Liquid
+  Water and Dilute Aqueous Solutions. \emph{J. Chem. Phys.} \textbf{1981},
+  \emph{74}, 622--632\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Rapaport(1983)]{Rapaport83}
+Rapaport,~D.~C. Hydrogen Bonds in Water: Network Organization and Lifetimes.
+  \emph{Mol. Phys.} \textbf{1983}, \emph{50}, 1151--1162\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Xu \latin{et~al.}(2002)Xu, Stern, and Berne]{Berne02}
+Xu,~H.; Stern,~H.~A.; Berne,~B.~J. Can Water Polarizability Be Ignored in
+  Hydrogen Bond Kinetics? \emph{J. Phys. Chem. B} \textbf{2002}, \emph{106},
+  2054--2060\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Jana and Bandyopadhyay(2011)Jana, and Bandyopadhyay]{Madhurima_JPCB11}
+Jana,~M.; Bandyopadhyay,~S. Hydration Properties of $\alpha$-, $\beta$-, and
+  $\gamma$-Cyclodextrins from Molecular Dynamics Simulations. \emph{J. Phys.
+  Chem. B} \textbf{2011}, \emph{115}, 6347--6357\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\end{mcitethebibliography}
